@@ -1,2 +1,2 @@
-# BattleTank_UE4
+# BattleTank
 Simple game for practicing UE4
